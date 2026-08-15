@@ -3622,11 +3622,6 @@ hash = "828d571a91296e2ee3be1ec509619ea01f6a61a03958461fbe543bd377daa194"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "7b82c00d58b304aa7e5c94426610b7a7b6247baa1122dbaa480bd7c7eabb6a6e"
-metafile = true
-
-[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "0a80e045329dc8e191f81dd4fa2cacfeff65715e990d2819650d1d83308d2bc4"
 metafile = true
@@ -4241,11 +4236,6 @@ hash = "412a69cdd31426264572edc1aa266632f78f7bbdb209c8be6cf1821f5f1cda58"
 metafile = true
 
 [[files]]
-file = "mods/jump-over-fences-forge.pw.toml"
-hash = "119fd9ee2836e0b871393f28739b58cbad7c741e9c5fdb9747867f627a2710a8"
-metafile = true
-
-[[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "39d576bdf14b906a1e6b11154473f5fb9444919aed049f3841779c9afce65359"
 metafile = true
@@ -4694,11 +4684,6 @@ file = "mods/skillcore-1.20.1-2.2.1.jar"
 hash = "e4001351091997b5231289179c8bccaec1d92b6cd8c39190f1f04b75af6d57fd"
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "7ea3fcf02c8c1cc3f51723fc0df954a025060df239e07bc110121cc0fa97d155"
-metafile = true
-
-[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "bd231c766e25e2f3a5fbfa7e7b8ade2536fed16c3a5574dc30b212dc51a75044"
 metafile = true
@@ -4881,11 +4866,6 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "d83565316e1c316410a967d94a02bfa42f08ce2c58e5eeaf71812510aebece53"
-metafile = true
-
-[[files]]
-file = "mods/waveycapes.pw.toml"
-hash = "3cb58fe77811cf45223c009dd7367dd8a7ed52c3b311b84d29b9647c365ea052"
 metafile = true
 
 [[files]]
