@@ -1,0 +1,38 @@
+{
+  "allowMovement": {
+    "com.rui.skillcore.client.screen.skill.SkillScreen": true,
+    "harmonised.pmmo.client.gui.PlayerStatsScreen": true,
+    "slimeknights.mantle.client.screen.book.BookScreen": true,
+    "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true,
+    "betteradvancements.common.gui.BetterAdvancementsScreen": true,
+    "net.blay09.mods.hardcorerevival.client.KnockoutScreen": true,
+    "com.aetherteam.aether.client.gui.screen.inventory.AccessoriesScreen": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreenV2": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "xaero.common.gui.GuiMinimapMain": true,
+    "xaero.common.gui.GuiWaypoints": true,
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "vazkii.patchouli.client.book.gui.GuiBookCategory": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
+    "io.github.kosmx.emotes.arch.gui.screen.ingame.FastChosseScreen": true,
+    "io.github.kosmx.emotes.arch.gui.screen.ingame.FullScreenListImpl": true,
+    "com.rui.skillcore.client.screen.skillconfig.SkillSettingsScreen": true,
+    "ichttt.mods.firstaid.client.gui.GuiHealthScreen": true
+  },
+  "hideBackground": {
+    "com.rui.skillcore.client.screen.skill.SkillScreen": true,
+    "harmonised.pmmo.client.gui.PlayerStatsScreen": true,
+    "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true,
+    "com.aetherteam.aether.client.gui.screen.inventory.AccessoriesScreen": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreenV2": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "vazkii.patchouli.client.book.gui.GuiBookCategory": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
+    "io.github.kosmx.emotes.arch.gui.screen.ingame.FastChosseScreen": true,
+    "com.rui.skillcore.client.screen.skillconfig.SkillSettingsScreen": true,
+    "ichttt.mods.firstaid.client.gui.GuiHealthScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookIndex": true
+  }
+}

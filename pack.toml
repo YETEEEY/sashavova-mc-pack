@@ -1,0 +1,13 @@
+name = "SashaVova_1201"
+author = "Sasha"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cdc6a5dace0796ab684e2ab904364f6d7d65e6b7da23eecda58388ec4aa8c3eb"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

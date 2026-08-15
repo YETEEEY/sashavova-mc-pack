@@ -1,0 +1,13 @@
+name = "Epic Knights: Ice and Fire"
+filename = "[1.20.1-forge]-Epic-Knights-Ice-and-Fire-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a749de70ca0feb9b50b663785a2c48ea9e07e60"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5972466
+project-id = 1151603

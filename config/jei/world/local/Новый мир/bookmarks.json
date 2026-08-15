@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"type":"ingredient","value":"net.minecraft.world.effect.MobEffectInstance\u0026effect:minecraft:weakness"},
+  {"type":"ingredient","value":"net.minecraft.world.effect.MobEffectInstance\u0026effect:minecraft:slowness"},
+  {"type":"ingredient","value":"net.minecraft.world.effect.MobEffectInstance\u0026effect:toughasnails:climate_clemency"},
+  {"type":"item_stack","value":"{Count:1b,id:\"minecraft:map\"}"}
+]

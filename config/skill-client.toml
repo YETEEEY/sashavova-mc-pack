@@ -1,0 +1,15 @@
+
+["General Settings"]
+	#Показывать панель существ по умолчанию
+	showEntityInfo = true
+	#Показывать числа урона по умолчанию
+	showEntityDamageInfo = true
+	#Включить автошаг без прыжка
+	activeStepAssist = true
+	#Координата X панели существ
+	#Range: 0 ~ 10000
+	panelX = 0
+	#Координата Y панели существ
+	#Range: 0 ~ 10000
+	panelY = 0
+

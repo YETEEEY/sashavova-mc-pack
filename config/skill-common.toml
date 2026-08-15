@@ -1,0 +1,8 @@
+
+["General Settings"]
+	#Опыт с дропа Дракона Края
+	#Range: 100 ~ 1000000
+	dragonXp = 12000
+	#Незрелый картофель роняет ядовитый картофель
+	poisonousPotatoDrop = true
+
