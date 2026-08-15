@@ -3,11 +3,11 @@ filename = "SubtleEffects-forge-1.20.1-1.13.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "704e6b718c405b67296fe717f099aff72ebba8db"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/4q8UOK1d/versions/Ci8SWnwn/SubtleEffects-forge-1.20.1-1.13.2.jar"
+hash-format = "sha512"
+hash = "efd4e80ef42d405c99f4e87ed24b5f244a34fb79bada59e7d53a2cbd9759dc64b0b7b0df0caf4efe6e8e40868893fa9ca88529364c6141180c4c8bce06cf8ff9"
 
 [update]
-[update.curseforge]
-file-id = 7283799
-project-id = 1023913
+[update.modrinth]
+mod-id = "4q8UOK1d"
+version = "Ci8SWnwn"

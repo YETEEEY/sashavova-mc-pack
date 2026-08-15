@@ -3,11 +3,11 @@ filename = "Nirvana Lib-forge-1.20.1-2.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e1956acfadbc0f8f2c2dfb433332714b4f4d57cf"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/6gKEW2ql/versions/wzv9dD6L/Nirvana%20Lib-forge-1.20.1-2.2.0.jar"
+hash-format = "sha512"
+hash = "e6f13c3ab9dbbd9d786df6bf02804e9a905900c3b3f8b907a25de8b594b78edbc1448afa7dce4f68457cbea3cc7af7fb5bc507896b04858c7607ded16d6b4f19"
 
 [update]
-[update.curseforge]
-file-id = 7986008
-project-id = 1164411
+[update.modrinth]
+mod-id = "6gKEW2ql"
+version = "wzv9dD6L"
