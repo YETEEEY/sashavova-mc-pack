@@ -1757,14 +1757,6 @@ file = "config/ferritecore-mixin.toml"
 hash = "c164439c632aa7c95c07edec5cfef74b8e2d5671a8445a781deeb4de7ad0c8b6"
 
 [[files]]
-file = "config/firstaid-client.toml"
-hash = "e2836629fe7ad8e8391999d56d20b648c4a79ec23781452367b8060ee525cd33"
-
-[[files]]
-file = "config/firstaid-common.toml"
-hash = "22ef4e55f5ed2f22c97bd9dba934dfec0beaa4b284e23c7c8493cda9c4d5e504"
-
-[[files]]
 file = "config/firstperson.json"
 hash = "6d9d8a3708ccf453fb710f4e10591cedd4d1767acde97c7da7bbc2cd2c4d4101"
 
@@ -4043,11 +4035,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
-metafile = true
-
-[[files]]
-file = "mods/first-aid.pw.toml"
-hash = "23b34b1ede5d26a29cbe0226d71b4de26c9b7f837e47914630f7da00961f3be7"
 metafile = true
 
 [[files]]
