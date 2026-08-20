@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "ff17bed268ae9b318d915eefd8c7544d8fe0ad75522fa4af06051338e2cc498b"
+hash = "5f611f69afdd4dff6093fddde2a048baa7f54eb323342ed401cde23c25634c96"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -2518,7 +2518,7 @@ hash = "2da918542d7e57dad43c0b0614f5d79ddf67989016a71ef2d61344163edd7f1e"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "f1d8f2179ddacce40842c1e353e5d87879089dc4c79f6b9eb9e5f3c2c9c98552"
+hash = "40c66e51ab29ee22ac555e8bc0f489ad0cf176552e4bb38ce84dadc26cfb3e6f"
 
 [[files]]
 file = "config/overflowingbars-client.toml"
